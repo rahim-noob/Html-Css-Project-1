@@ -156,7 +156,6 @@ button{
         & h2{
            font-size: 70px;
            color: #4d2020;
-           padding-left: ;
            font-weight: 700;
               
         }
@@ -402,7 +401,7 @@ button{
 }
 .copy{
     color: aquamarine;
-    font-size: 18px;
+    font-size: 15px;
 }
 
 }
